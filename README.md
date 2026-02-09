@@ -1,21 +1,26 @@
-# File Management CLI App (Python)
+File Management App
 
-This is a simple command line File Management application written in Python.  
-I created this project while learning Python basics to practice working with files and the OS module.
+This is a simple Python command-line file management program.
+I created this project while practicing Python basics and file handling.
 
-## Features
-This program allows users to:
+The program allows users to:
 
-- Create a new file
-- View all files in the current directory
-- Read file content
-- Edit (append) file content
-- Delete files
+Create a new file
 
-## How to Run
+View all files in the current directory
 
-1. Make sure Python is installed on your system.
-2. Download or clone this repository.
-3. Open terminal inside the project folder.
-4. Run the program:
+Read file content
 
+Edit a file by adding new text
+
+Delete a file
+
+How to run
+
+Make sure Python is installed on your system.
+
+Download or clone this repository.
+
+Open terminal inside the project folder.
+
+Run the command:
